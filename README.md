@@ -14,6 +14,8 @@
   |
   <a href="#Technologies-used">Technologies used</a>
   |
+  <a href="#Features">Features</a>
+  |
 </p>
 
 # Instructions
@@ -48,3 +50,11 @@
     </tr>
   </tbody>
 </table>
+
+# Features
+
+- [ x ] List "To Do"
+- [ x ] Create "To Do"
+- [ x ] Edit "To Do"
+- [ x ] Remove "To Do"
+- [ x ] Mark "To Do" as completed or not completed
