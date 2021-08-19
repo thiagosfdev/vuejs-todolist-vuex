@@ -12,7 +12,7 @@
   |
   <a href="#Instructions">Instructions</a>
   |
-  <a href="#Technologies used">Technologies used</a>
+  <a href="#Technologies-used">Technologies used</a>
   |
 </p>
 
@@ -26,7 +26,7 @@
 
    ```npm i```
 
-# Technologies used:
+# Technologies-used:
 
 <table>
   <thead>
