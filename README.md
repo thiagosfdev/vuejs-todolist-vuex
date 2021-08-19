@@ -53,8 +53,8 @@
 
 # Features
 
-- [x] List "To Do"
-- [x] Create "To Do"
-- [x] Edit "To Do"
-- [x] Remove "To Do"
-- [x] Mark "To Do" as completed or not completed
+- [x] List "To Do" ✔️
+- [x] Create "To Do" ✔️
+- [x] Edit "To Do" ✔️
+- [x] Remove "To Do" ✔️
+- [x] Mark "To Do" as completed or not completed ✔️
