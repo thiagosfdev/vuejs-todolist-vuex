@@ -2,11 +2,21 @@
 
 ![image](https://user-images.githubusercontent.com/75589689/130104165-3d53e241-3e4c-4ea0-b7e7-393ecb877f95.png)
 
-> Status: Demo Development ⚡
-
+> Status: 🚧 <i><b>Construction</b></i> 🚧
 ### This is an application developed with Vuejs to apply Vuex as the Centralized State Management layer
 
-## Instructions
+<br>
+<hr>
+
+<p align="center">
+  |
+  <a href="#Instructions">Instructions</a>
+  |
+  <a href="#Technologies used">Technologies used</a>
+  |
+</p>
+
+# Instructions
 
 1. Download the project to a folder of your choice with the comand:
 
@@ -16,7 +26,7 @@
 
    ```npm i```
 
-## Technologies used:
+# Technologies used:
 
 <table>
   <thead>
