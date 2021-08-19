@@ -16,17 +16,31 @@
   |
   <a href="#Features">Features</a>
   |
+  <a href="#Presentation">Presentation</a>
+  |
 </p>
 
 # Instructions
 
 1. Download the project to a folder of your choice with the comand:
 
-   ```git clone https://github.com/thiagosfdev/vuejs-todolist-vuex.git```
+        git clone https://github.com/thiagosfdev/vuejs-todolist-vuex.git
 
-1. Enter the created folder and run the command 
+1. Enter the created folder and run the command at the terminal
 
-   ```npm i```
+        npm i
+
+1. Enter the folder `src/db` and run the command at the terminal
+
+        npm start
+
+1. In the root folder and in with another terminal, execute the command
+
+        npm run serve
+
+1. Open the browser at the address:
+
+        http://localhost:8080
 
 # Technologies-used:
 
@@ -58,3 +72,9 @@
 - [x] Edit "To Do" ✔️
 - [x] Remove "To Do" ✔️
 - [x] Mark "To Do" as completed or not completed ✔️
+
+# Presentation
+
+<h1>
+  <img alt="Presentation Features" title="Presentation" src="Presentation.gif" />
+</h1>
