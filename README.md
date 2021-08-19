@@ -1,24 +1,38 @@
-# vue-vuex
+<h1>✔️ To Do List with VueJs and Vuex ✔️</h1>
 
-## Project setup
-```
-npm install
-```
+> Status: Demo Production ⚡
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### This is an application developed with Vuejs to apply Vuex as the Centralized State Management layer
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Instructions
 
-### Lints and fixes files
-```
-npm run lint
-```
+1. Download the project to a folder of your choice with the comand:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+   ```git clone https://github.com/thiagosfdev/vuejs-todolist-vuex.git```
+
+1. Enter the created folder and run the command 
+
+   ```npm i```
+
+## Technologies used:
+
+<table>
+  <thead>
+    <th>NAME</th>
+    <th>PAGE</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>VueJS</td>
+      <td>https://vuejs.org/</td>
+    </tr>
+    <tr>
+      <td>Vuex</td>
+      <td>https://vuex.vuejs.org/</td>
+    </tr>
+    <tr>
+      <td>Axios</td>
+      <td>https://axios-http.com/docs/intro</td>
+    </tr>
+  </tbody>
+</table>
