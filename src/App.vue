@@ -11,12 +11,12 @@
     <div class="container">
 
       <div class="row">
-        <div class="col-sm-9 border-right">
+        <div class="col-sm-12 border-right">
           <TarefasLista />
         </div>
-        <div class="col-sm-3">
-          <Contador />
-        </div>
+        <!-- <div class="col-sm-3"> -->
+          <!-- <Contador /> -->
+        <!-- </div> -->
       </div>
 
     </div>
